@@ -17,7 +17,7 @@ TOKEN=MY_PERSONAL_TOKEN OWNER= REPO= curl \
 cp .env_example .env
 ```
 4. Run
-```
+```console
 cargo run
 ```
 
